@@ -1,7 +1,7 @@
 class Solution {
     public int findDuplicate(int[] nums) {
         int n=nums.length-1;
-        int [] arr = new int[n];
+        int [] arr = new int[n];  // hash table
         for(int i=0;i< nums.length;i++){
             arr[nums[i]-1]++;
         }
