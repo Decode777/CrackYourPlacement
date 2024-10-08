@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Decode777/CrackYourPlacement/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/Decode777/CrackYourPlacement/tree/master/0067-add-binary) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Decode777/CrackYourPlacement/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Decode777/CrackYourPlacement/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -64,9 +65,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Decode777/CrackYourPlacement/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Decode777/CrackYourPlacement/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Decode777/CrackYourPlacement/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Decode777/CrackYourPlacement/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
