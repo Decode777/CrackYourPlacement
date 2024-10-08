@@ -1,17 +1,19 @@
 class Solution {
     public int minSwaps(String s) {
-        int balance = 0, swaps = 0;
-        for (char ch : s.toCharArray()) {
-            if (ch == '[') {
-                balance++;
+        int opening = 0;
+        int unbalanced = 0;
+
+        for (var c: s.getBytes()) {
+            if (c == '[') {
+                opening++;
             } else {
-                balance--;
-            }
-            if (balance < 0) {
-                swaps++;
-                balance = 1;
+                if (opening > 0)
+                    opening--;
+                else
+                    unbalanced++;    
             }
         }
-        return swaps;
+
+        return unbalanced / 2 + unbalanced % 2;
     }
 }
