@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Decode777/CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/Decode777/CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Decode777/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
+| [1002-maximum-width-ramp](https://github.com/Decode777/CrackYourPlacement/tree/master/1002-maximum-width-ramp) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Decode777/CrackYourPlacement/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Hash Table
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Decode777/CrackYourPlacement/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/Decode777/CrackYourPlacement/tree/master/1002-maximum-width-ramp) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Decode777/CrackYourPlacement/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Decode777/CrackYourPlacement/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Simulation
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Decode777/CrackYourPlacement/tree/master/0022-generate-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/Decode777/CrackYourPlacement/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
