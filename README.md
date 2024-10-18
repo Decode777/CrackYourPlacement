@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Decode777/CrackYourPlacement/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1002-maximum-width-ramp](https://github.com/Decode777/CrackYourPlacement/tree/master/1002-maximum-width-ramp) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Decode777/CrackYourPlacement/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Decode777/CrackYourPlacement/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Decode777/CrackYourPlacement/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Decode777/CrackYourPlacement/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Decode777/CrackYourPlacement/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Decode777/CrackYourPlacement/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/Decode777/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Decode777/CrackYourPlacement/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## String
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Decode777/CrackYourPlacement/tree/master/0022-generate-parentheses) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Decode777/CrackYourPlacement/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -121,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Decode777/CrackYourPlacement/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Decode777/CrackYourPlacement/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
