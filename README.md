@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Decode777/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Decode777/CrackYourPlacement/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1002-maximum-width-ramp](https://github.com/Decode777/CrackYourPlacement/tree/master/1002-maximum-width-ramp) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Decode777/CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Decode777/CrackYourPlacement/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Decode777/CrackYourPlacement/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Decode777/CrackYourPlacement/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Decode777/CrackYourPlacement/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Decode777/CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Decode777/CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Decode777/CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Memoization
 |  |
 | ------- |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1197-parsing-a-boolean-expression](https://github.com/Decode777/CrackYourPlacement/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Decode777/CrackYourPlacement/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+## Matrix
+|  |
+| ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Decode777/CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
