@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Decode777/CrackYourPlacement/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Decode777/CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0670-maximum-swap](https://github.com/Decode777/CrackYourPlacement/tree/master/0670-maximum-swap) |
+| [1585-the-kth-factor-of-n](https://github.com/Decode777/CrackYourPlacement/tree/master/1585-the-kth-factor-of-n) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -149,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Decode777/CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
+## Number Theory
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/Decode777/CrackYourPlacement/tree/master/1585-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
