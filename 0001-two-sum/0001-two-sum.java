@@ -1,10 +1,10 @@
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        for( int s = 0 , e = nums.length-1 ; s < nums.length/2 ; s++ , e-- ){
+        for( int i = 0 , j = nums.length-1 ; i < nums.length/2 ; i++ , j-- ){
 
-            for(int ss = s + 1, se = e - 1; ss < nums.length - s; ss++, se--){
-                if(nums[s] + nums[ss] == target) return new int[] {s, ss};
-                if(nums[e] + nums[se] == target) return new int[] {se, e};
+            for(int k = i + 1, m = j - 1; k < nums.length - i; k++, m--){
+                if(nums[i] + nums[k] == target) return new int[] {i, k};
+                if(nums[j] + nums[m] == target) return new int[] {m, j};
             }
         }
         return new int[] {};
