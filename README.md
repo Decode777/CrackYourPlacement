@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Decode777/CrackYourPlacement/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Decode777/CrackYourPlacement/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Decode777/CrackYourPlacement/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Decode777/CrackYourPlacement/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2554-minimum-total-distance-traveled](https://github.com/Decode777/CrackYourPlacement/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Decode777/CrackYourPlacement/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Decode777/CrackYourPlacement/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Decode777/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [1940-maximum-xor-for-each-query](https://github.com/Decode777/CrackYourPlacement/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Decode777/CrackYourPlacement/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Decode777/CrackYourPlacement/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## String
 |  |
 | ------- |
@@ -181,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Decode777/CrackYourPlacement/tree/master/3455-minimum-length-of-string-after-operations) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Decode777/CrackYourPlacement/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
