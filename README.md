@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-minimum-total-distance-traveled](https://github.com/Decode777/CrackYourPlacement/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Decode777/CrackYourPlacement/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Decode777/CrackYourPlacement/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2685-first-completely-painted-row-or-column](https://github.com/Decode777/CrackYourPlacement/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Decode777/CrackYourPlacement/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Hash Table
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Decode777/CrackYourPlacement/tree/master/0966-binary-subarrays-with-sum) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Decode777/CrackYourPlacement/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Decode777/CrackYourPlacement/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2685-first-completely-painted-row-or-column](https://github.com/Decode777/CrackYourPlacement/tree/master/2685-first-completely-painted-row-or-column) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Decode777/CrackYourPlacement/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Two Pointers
 |  |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Decode777/CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2685-first-completely-painted-row-or-column](https://github.com/Decode777/CrackYourPlacement/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Decode777/CrackYourPlacement/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Number Theory
 |  |
